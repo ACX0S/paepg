@@ -4,6 +4,6 @@ body{
     color: #181818;
 }
 
-.TextCenter{
+.nm{ /**Text center**/
     text-align: center;
 }
